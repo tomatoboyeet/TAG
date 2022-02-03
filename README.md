@@ -11,6 +11,8 @@ SAY NO MORE TO PAYING FOR THE GAME.
 
 i also hate games without builtin commands.
 
+the worse part is, you cant know the source code of games! i hate it. so annoying.
+
 the idea behind tag is changing the world of gaming.
 
 gaming is based on a lot of data, so how about we store all the map data in a txt file, no bigger than 1MB?
